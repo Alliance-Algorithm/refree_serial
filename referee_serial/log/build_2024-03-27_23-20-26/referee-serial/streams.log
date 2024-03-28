@@ -1,0 +1,28 @@
+[0.041s] Invoking command in '/workspace/referee_serial/build/referee-serial': AMENT_PREFIX_PATH=/workspace/referee_serial/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/workspace/referee_serial/install/serial:/workspace/referee_serial/src/install/referee_serial:/workspace/referee_serial/src/install/serial:/opt/ros/humble LD_LIBRARY_PATH=/workspace/referee_serial/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /workspace/referee_serial/build/referee-serial -- -j16 -l16
+[0.090s] [35m[1mConsolidate compiler generated dependencies of target referee-serial[0m
+[0.105s] [ 50%] [32mBuilding CXX object CMakeFiles/referee-serial.dir/src/referee_serial.cpp.o[0m
+[4.942s] [100%] [32m[1mLinking CXX executable referee-serial[0m
+[5.121s] [100%] Built target referee-serial
+[5.135s] Invoked command in '/workspace/referee_serial/build/referee-serial' returned '0': AMENT_PREFIX_PATH=/workspace/referee_serial/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/workspace/referee_serial/install/serial:/workspace/referee_serial/src/install/referee_serial:/workspace/referee_serial/src/install/serial:/opt/ros/humble LD_LIBRARY_PATH=/workspace/referee_serial/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /workspace/referee_serial/build/referee-serial -- -j16 -l16
+[5.171s] Invoking command in '/workspace/referee_serial/build/referee-serial': AMENT_PREFIX_PATH=/workspace/referee_serial/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/workspace/referee_serial/install/serial:/workspace/referee_serial/src/install/referee_serial:/workspace/referee_serial/src/install/serial:/opt/ros/humble LD_LIBRARY_PATH=/workspace/referee_serial/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /workspace/referee_serial/build/referee-serial
+[5.177s] -- Install configuration: ""
+[5.177s] -- Execute custom install script
+[5.178s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/lib/referee-serial/referee-serial
+[5.179s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/ament_index/resource_index/package_run_dependencies/referee-serial
+[5.179s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/ament_index/resource_index/parent_prefix_path/referee-serial
+[5.179s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/environment/ament_prefix_path.sh
+[5.179s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/environment/ament_prefix_path.dsv
+[5.180s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/environment/path.sh
+[5.180s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/environment/path.dsv
+[5.181s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/local_setup.bash
+[5.181s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/local_setup.sh
+[5.181s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/local_setup.zsh
+[5.181s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/local_setup.dsv
+[5.181s] -- Symlinking: /workspace/referee_serial/install/referee-serial/share/referee-serial/package.dsv
+[5.190s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/ament_index/resource_index/packages/referee-serial
+[5.191s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.191s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.192s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/cmake/referee-serialConfig.cmake
+[5.192s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/cmake/referee-serialConfig-version.cmake
+[5.192s] -- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/package.xml
+[5.196s] Invoked command in '/workspace/referee_serial/build/referee-serial' returned '0': AMENT_PREFIX_PATH=/workspace/referee_serial/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/workspace/referee_serial/install/serial:/workspace/referee_serial/src/install/referee_serial:/workspace/referee_serial/src/install/serial:/opt/ros/humble LD_LIBRARY_PATH=/workspace/referee_serial/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /workspace/referee_serial/build/referee-serial

@@ -1,0 +1,24 @@
+[35m[1mConsolidate compiler generated dependencies of target referee-serial[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/referee-serial.dir/src/referee_serial.cpp.o[0m
+[100%] [32m[1mLinking CXX executable referee-serial[0m
+[100%] Built target referee-serial
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/lib/referee-serial/referee-serial
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/ament_index/resource_index/package_run_dependencies/referee-serial
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/ament_index/resource_index/parent_prefix_path/referee-serial
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/environment/path.sh
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/environment/path.dsv
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/local_setup.bash
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/local_setup.sh
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/local_setup.zsh
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/local_setup.dsv
+-- Symlinking: /workspace/referee_serial/install/referee-serial/share/referee-serial/package.dsv
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/ament_index/resource_index/packages/referee-serial
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/cmake/referee-serialConfig.cmake
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/cmake/referee-serialConfig-version.cmake
+-- Up-to-date symlink: /workspace/referee_serial/install/referee-serial/share/referee-serial/package.xml

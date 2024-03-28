@@ -1,0 +1,55 @@
+[0.045s] Invoking command in '/workspace/referee_serial/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /workspace/referee_serial/src/ros2-serial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/workspace/referee_serial/install/serial
+[0.130s] -- The C compiler identification is GNU 11.4.0
+[0.208s] -- The CXX compiler identification is GNU 11.4.0
+[0.215s] -- Detecting C compiler ABI info
+[0.276s] -- Detecting C compiler ABI info - done
+[0.283s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.283s] -- Detecting C compile features
+[0.283s] -- Detecting C compile features - done
+[0.286s] -- Detecting CXX compiler ABI info
+[0.360s] -- Detecting CXX compiler ABI info - done
+[0.367s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.367s] -- Detecting CXX compile features
+[0.368s] -- Detecting CXX compile features - done
+[0.369s] -- Found ament_cmake_auto: 1.3.8 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.497s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.575s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.669s] -- Configuring done
+[0.683s] -- Generating done
+[0.684s] -- Build files have been written to: /workspace/referee_serial/build/serial
+[0.690s] Invoked command in '/workspace/referee_serial/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /workspace/referee_serial/src/ros2-serial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/workspace/referee_serial/install/serial
+[0.693s] Invoking command in '/workspace/referee_serial/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /workspace/referee_serial/build/serial -- -j16 -l16
+[0.733s] [ 25%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/unix.cc.o[0m
+[0.733s] [ 50%] [32mBuilding CXX object CMakeFiles/serial.dir/src/serial.cc.o[0m
+[0.735s] [ 75%] [32mBuilding CXX object CMakeFiles/serial.dir/src/impl/list_ports/list_ports_linux.cc.o[0m
+[1.375s] [100%] [32m[1mLinking CXX shared library libserial.so[0m
+[1.477s] [100%] Built target serial
+[1.487s] Invoked command in '/workspace/referee_serial/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /workspace/referee_serial/build/serial -- -j16 -l16
+[1.526s] Invoking command in '/workspace/referee_serial/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /workspace/referee_serial/build/serial
+[1.529s] -- Install configuration: ""
+[1.530s] -- Execute custom install script
+[1.532s] -- Symlinking: /workspace/referee_serial/install/serial/include/serial/impl/unix.h
+[1.541s] -- Symlinking: /workspace/referee_serial/install/serial/include/serial/impl/win.h
+[1.548s] -- Symlinking: /workspace/referee_serial/install/serial/include/serial/serial.h
+[1.556s] -- Symlinking: /workspace/referee_serial/install/serial/include/serial/v8stdint.h
+[1.564s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/environment/library_path.sh
+[1.571s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/environment/library_path.dsv
+[1.580s] -- Symlinking: /workspace/referee_serial/install/serial/lib/libserial.so
+[1.588s] -- Symlinking: /workspace/referee_serial/install/serial/share/ament_index/resource_index/package_run_dependencies/serial
+[1.598s] -- Symlinking: /workspace/referee_serial/install/serial/share/ament_index/resource_index/parent_prefix_path/serial
+[1.606s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/environment/ament_prefix_path.sh
+[1.615s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/environment/ament_prefix_path.dsv
+[1.623s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/environment/path.sh
+[1.632s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/environment/path.dsv
+[1.640s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/local_setup.bash
+[1.649s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/local_setup.sh
+[1.656s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/local_setup.zsh
+[1.664s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/local_setup.dsv
+[1.672s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/package.dsv
+[1.681s] -- Symlinking: /workspace/referee_serial/install/serial/share/ament_index/resource_index/packages/serial
+[1.690s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.696s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/cmake/ament_cmake_export_libraries-extras.cmake
+[1.703s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/cmake/serialConfig.cmake
+[1.711s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/cmake/serialConfig-version.cmake
+[1.718s] -- Symlinking: /workspace/referee_serial/install/serial/share/serial/package.xml
+[1.729s] Invoked command in '/workspace/referee_serial/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /workspace/referee_serial/build/serial

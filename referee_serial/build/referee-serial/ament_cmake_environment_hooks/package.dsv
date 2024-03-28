@@ -1,0 +1,4 @@
+source;share/referee-serial/local_setup.bash
+source;share/referee-serial/local_setup.dsv
+source;share/referee-serial/local_setup.sh
+source;share/referee-serial/local_setup.zsh
