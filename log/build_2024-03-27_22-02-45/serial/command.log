@@ -1,6 +1,0 @@
-Invoking command in '/workspace/referee_serial/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /workspace/referee_serial/src/ros2-serial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/workspace/referee_serial/install/serial
-Invoked command in '/workspace/referee_serial/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /workspace/referee_serial/src/ros2-serial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/workspace/referee_serial/install/serial
-Invoking command in '/workspace/referee_serial/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /workspace/referee_serial/build/serial -- -j16 -l16
-Invoked command in '/workspace/referee_serial/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /workspace/referee_serial/build/serial -- -j16 -l16
-Invoking command in '/workspace/referee_serial/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /workspace/referee_serial/build/serial
-Invoked command in '/workspace/referee_serial/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /workspace/referee_serial/build/serial

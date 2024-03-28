@@ -1,2 +1,0 @@
-Invoking command in '/workspace/referee_serial/build/referee_serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /workspace/referee_serial -DCMAKE_INSTALL_PREFIX=/workspace/referee_serial/install/referee_serial
-Invoked command in '/workspace/referee_serial/build/referee_serial' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /workspace/referee_serial -DCMAKE_INSTALL_PREFIX=/workspace/referee_serial/install/referee_serial

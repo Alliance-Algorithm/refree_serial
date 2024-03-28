@@ -11,7 +11,6 @@
 #include <std_msgs/msg/detail/bool__struct.hpp>
 #include <std_msgs/msg/detail/float32_multi_array__struct.hpp>
 #include <string>
-#include <system_error>
 /*
  * 串口数据格式
  * 帧头(5字节) + cmd id(2字节) + 数据(n字节) + CRC16(2字节)
