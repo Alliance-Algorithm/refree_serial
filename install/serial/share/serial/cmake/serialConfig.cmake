@@ -1,1 +1,1 @@
-/workspace/referee_serial/build/serial/ament_cmake_core/serialConfig.cmake
+/workspaces/refree_serial/build/serial/ament_cmake_core/serialConfig.cmake

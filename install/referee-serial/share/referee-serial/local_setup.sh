@@ -1,1 +1,1 @@
-/workspace/referee_serial/build/referee-serial/ament_cmake_environment_hooks/local_setup.sh
+/workspaces/refree_serial/build/referee-serial/ament_cmake_environment_hooks/local_setup.sh
