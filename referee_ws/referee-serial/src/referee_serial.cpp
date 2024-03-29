@@ -55,7 +55,7 @@ public:
 		case 0x0001:
 		{
 			auto msg = std_msgs::msg::Float32();
-			if ((data[0] & 0xf0) == 0x40)
+			if ((data[0] & 0xf0) != 0x40)
 			{
 				msg.data = 0;
 			}
